@@ -23,7 +23,7 @@ To run the program:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ashank007/gcd-calculator.git
+    git clone https://github.com/Ashank007/Euclides_Theorem.git
     ```
 
 2. Navigate to the folder and compile the code:
